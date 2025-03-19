@@ -1,7 +1,7 @@
 # Snake Game
 
 ## About the Project:	
-This is a simple Snake game built using Python's turtle module and Object Oriented Programming (OOP) concepts. The game follows the classic Snake gameplay, which player can control a snake to eat food and grow while avoiding collisions with the walls and itself.
+This is a Snake game built using Python's turtle module and Object Oriented Programming (OOP) concepts. The game follows the classic Snake gameplay, which player can control a snake to eat food and grow while avoiding collisions with the walls and itself.
 
 ---
 
