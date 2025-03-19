@@ -26,6 +26,8 @@ This is a simple Snake game built using Python's turtle module and Object Orient
 3. Eat food to grow and get points.
 4. Avoid collisions.
 
+![Code in Pycharm](https://github.com/user-attachments/assets/d270692a-8c21-40ee-81f9-883f6db736ad)
+
 ---
 
 ## Future Improvements
